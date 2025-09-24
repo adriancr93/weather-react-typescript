@@ -200,4 +200,4 @@ If you want, I can also:
 - Add `axios` to `package.json` and wire examples into the project.
 
 ---
-Created from the original Spanish notes to make a clear, practical README for this project.
+Created from the original Spanish notes to make a clear, practical README for this project.s
